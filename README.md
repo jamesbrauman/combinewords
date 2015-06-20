@@ -10,7 +10,7 @@ Add `thesnackalicious/combinewords` to your `composer.json` file:
 
 ```
 "require": {
-  "thesnackalicious/combinewords": "dev-master"
+  "thesnackalicious/combinewords": "1.0"
 }
 ```
 
