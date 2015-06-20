@@ -5,13 +5,13 @@
   "keywords": ["laravel", "string", "manipulation", "words"],
   "authors": [
     {
-      "name": "James Brauman",
-      "email": "fake@notreal.com"
+      "name": "thesnackalicious",
+      "email": "james.22au@gmail.com"
     }
   ],
   "require": {
     "php": ">=5.4.0",
-    "laravel/framework": "5.0.*"
+    "laravel/framework": ">=5.0.0"
   },
   "autoload": {
     "psr-4": {
