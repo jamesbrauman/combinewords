@@ -1,0 +1,21 @@
+{
+  "name": "thesnackalicious/combinewords",
+  "description": "Combine words from word lists into strings in Laravel 5.",
+  "license": "MIT",
+  "keywords": ["laravel", "string", "manipulation", "words"],
+  "authors": [
+    {
+      "name": "James Brauman",
+      "email": "fake@notreal.com"
+    }
+  ],
+  "require": {
+    "php": ">=5.4.0",
+    "laravel/framework": "5.0.*"
+  },
+  "autoload": {
+    "psr-4": {
+      "TheSnackalicious\\CombineWords\\": "src/"
+    }
+  }
+}
