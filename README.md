@@ -52,9 +52,9 @@ $ php artisan tinker
 => "blackwood"
 ```
 
-In this example combinewords chooses one random word from the `colors.json` file and one random word from the `nouns.json` file to create the `blackwood` string.
+In this example combinewords chooses one random word from the `color.json` file and one random word from the `noun.json` file to create the `blackwood` string.
 
-combinewords will look for word list files in the directory specified by the value in the `combinewords.directory` configuration key. combinewords comes with two word lists included: `colors.json` and `nouns.json`.
+combinewords will look for word list files in the directory specified by the value in the `combinewords.directory` configuration key. combinewords comes with two word lists included: `color.json` and `noun.json`.
 
 ### Adding Requirements
 
